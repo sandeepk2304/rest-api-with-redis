@@ -74,3 +74,12 @@ rest-api/
 ├── .gitignore        # Git ignore rules
 └── package.json      # Node.js dependencies and scripts
 ```
+
+
+## Further reading
+
+Longer write-ups on the same ground, from [hisandeep.com](https://www.hisandeep.com):
+
+- [When a hot Redis key expires: cache stampedes](https://www.hisandeep.com/blog/redis-cache-stampede)
+- [Shrinking a 14 GiB Redis cache to 1.6 GiB, no downtime](https://www.hisandeep.com/blog/redis-cache-compression-9x)
+- [Structuring an Express API that outlives sprint one](https://www.hisandeep.com/blog/express-api-structure-that-lasts)
